@@ -4,7 +4,7 @@ Interactive Data Analysis Dashboard built with Streamlit. Features: Multi format
 
 This project was developed for the AI & Data Science Hackathon - a comprehensive, interactive web application built with Streamlit that provides a complete data science pipeline from raw data to machine learning-ready datasets. The dashboard enables users to upload, analyze, clean, visualize, and prepare data for AI/ML models through an intuitive interface.
 
-# Real-World Benefits
+# Real World Benefits
 This dashboard helps students learn data science by providing hands on experience without coding. Analysts save time by automating repetitive data cleaning tasks. Researchers process data from different formats quickly. Small businesses make decisions using their own data without expensive tools. Teachers demonstrate concepts live in classrooms. Everyone gets professional data analysis for free through an easy-to-use interface.
 
 It saves hours of work, reduces human errors, and makes data science accessible to non-programmers. Users can upload any data, clean it automatically, visualize patterns, prepare for machine learning, and export ready-to-use datasets - all in one place without technical barriers.
