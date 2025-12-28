@@ -25,8 +25,7 @@ Open your browser and go to: http://localhost:8501
 # Support & Contact
 03462528332 zong
 For questions, feedback, or support:
-GitHub Issues: Create an issue
-Email: your.salmansalis3@gmail.com
+Email: salmansalis3@gmail.com
 LinkedIn: https://www.linkedin.com/in/salman-ali-164a58117/
 
 # Developer
